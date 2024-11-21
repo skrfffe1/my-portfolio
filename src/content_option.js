@@ -36,12 +36,12 @@ const services = [
 const dataportfolio = [{
         img: "https://images.unsplash.com/photo-1508736793122-f516e3ba5569?q=80&w=1372&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         description: "Promotion of a burger product consist of static menu, still in development.",
-        link: "https://vercel.com/skrfffe1s-projects/fcbportfolio/HEqnCR4RJXFHN2koS9dbUgEC8eWW",
+        link: "https://fcbportfolio-eosin.vercel.app/",
     },
     {
         img: "https://images.unsplash.com/photo-1639843906796-a2c47fc24330?q=80&w=1365&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         description: "NFT Staking dapp, during web3 hackathon. ",
-        link: "https://vercel.com/skrfffe1s-projects/simple-dapp/fLLmE3B7VnkyLFQdbueGfyhrd1pH",
+        link: "https://simple-dapp-five.vercel.app/",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
